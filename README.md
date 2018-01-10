@@ -40,7 +40,7 @@ created web
 
 #### Apply stack(s)
 
-`$ mkstack -a|--apply :ids [-y|yarn]`
+`$ mkstack [-y|yarn] -a|--apply :ids`
 
 Time for a new web project. Create a new folder and apply the previously saved stack. This will do:
 
