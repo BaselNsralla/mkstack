@@ -47,7 +47,7 @@ Time for a new web project. Create a new folder and apply the previously saved s
 * `npm i :project --save` for all `dependencies`
 * `npm i :project --save-dev` for all `devDependencies`.
 
-Use -y or -yarn if you want to use yarn instead of npm
+*Use -y or -yarn if you want to use yarn instead of npm*
 
 ```
 $ mkdir ~/src/next-project && cd ~/src/next-project
